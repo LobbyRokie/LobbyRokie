@@ -7,7 +7,7 @@
 [<img src="media/Linkedin icon 3.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br>
 
 
-## About me:
+### About me:
 I'm a business analyst and a business intelligence developer.. <br>
 and also a basketball player and a foodie.. <br>
 I'm currently learning Guitar and GitHub!
