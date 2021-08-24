@@ -1,16 +1,16 @@
-### Aloha! I'm Roger, Napkin Killer, Ankle Breaker, Sandel Kicker, and LobbyRokie!
+### Aloha! <img src="media/Waving hand.webp" width="20">  I'm Roger, the sandel kicker, napkin killer, ankle breaker, and LobbyRokie!
 
 
-[<img src="images/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
-[<img src="images/resume.png" width="20">](https://github.com/LobbyRokie/cv) &nbsp;
-[<img src="images/GitHub icon.png" width="20">](https://github.com/LobbyRokie) &nbsp;
-[<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br>
+[<img src="media/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
+[<img src="media/Resume Blue.png" width="20">](https://lobbyrokie.github.io/cv/) &nbsp; 
+[<img src="media/GitHub icon 3.png" width="20">](https://github.com/LobbyRokie) &nbsp;
+[<img src="media/Linkedin icon 3.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br>
 
 
 ## About me:
 I'm a business analyst and a business intelligence developer.. <br>
-and also a basketball player and a foodie.. 
-I'm currently learning GitHub and Guitar!
+and also a basketball player and a foodie.. <br>
+I'm currently learning Guitar and GitHub!
 
 
 
