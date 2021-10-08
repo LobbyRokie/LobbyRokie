@@ -8,7 +8,7 @@
 
 
 ### About me:
-I'm a business analyst and a business intelligence developer.. <br>
+I'm a business intelligence developer and a data fanatic.. <br>
 and also a basketball player and a foodie.. <br>
 I'm currently learning Guitar and GitHub!
 
