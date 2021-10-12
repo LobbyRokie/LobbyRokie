@@ -1,4 +1,4 @@
-### Aloha! <img src="media/Waving hand.webp" width="20">  I'm Roger, the sandel kicker, napkin killer, ankle breaker, and LobbyRokie!
+### Aloha! Bonjour! Hola! こんにちは! 你好！ <img src="media/Waving hand.webp" width="20">  I'm Roger, Napkin Killer, Ankle Breaker, and LobbyRokie!
 
 
 [<img src="media/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
@@ -12,13 +12,13 @@ I'm a business intelligence developer.. <br>
 and also a basketball player and a foodie.. <br>
 I'm currently learning Guitar and GitHub!
 
-Things I hate:
+# Things I hate:
 * Data ambiguity, data discontinuity, data distortion.
 * Data source sitting in Excel sheet...
 * Manual and paper Reports.
 * Blue cheese 🤮
 
-Things I like:
+# Things I like:
 * Data integrity, data reliability.
 * Beautiful automation dashboard that delivers intuitive and interactive user experience. 
 * Data-driven solutions and strategic decisions.
