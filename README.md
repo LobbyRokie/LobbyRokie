@@ -8,17 +8,17 @@
 
 
 ### About me:
-I'm a business intelligence developer.. <br>
+I'm a business intelligence developer. <br>
 and also a basketball player and a foodie.. <br>
 I'm currently learning Guitar and GitHub!
 
-# Things I hate:
+##### Things I hate:
 * Data ambiguity, data discontinuity, data distortion.
 * Data source sitting in Excel sheet...
 * Manual and paper Reports.
 * Blue cheese 🤮
 
-# Things I like:
+##### Things I like:
 * Data integrity, data reliability.
 * Beautiful automation dashboard that delivers intuitive and interactive user experience. 
 * Data-driven solutions and strategic decisions.
