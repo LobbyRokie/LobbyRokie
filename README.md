@@ -15,7 +15,7 @@ I'm currently learning Guitar and GitHub!
 #### Things I hate:
 * Data ambiguity, data discontinuity, data distortion.
 * Data source sitting in Excel sheet...
-* Manual and paper Reports.
+* Manual and paper reports.
 * Poor and incomplete data collection.
 * Blue cheese 🤮
 
