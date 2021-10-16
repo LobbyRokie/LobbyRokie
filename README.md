@@ -16,12 +16,14 @@ I'm currently learning Guitar and GitHub!
 * Data ambiguity, data discontinuity, data distortion.
 * Data source sitting in Excel sheet...
 * Manual and paper Reports.
+* Poor and incomplete data collection.
 * Blue cheese 🤮
 
 #### Things I like:
-* Data integrity, data reliability.
-* Beautiful automation dashboard that delivers intuitive and interactive user experience. 
-* Data-driven solutions and strategic decisions.
+* Data integrity and data reliability.
+* Elegant automation dashboard that delivers intuitive and interactive user experience. 
+* Intelligent data-driven solutions and strategic decisions.
+* Discovering the hidden wants and needs behind data!
 * All food but blue cheese 🙂
 <br>
 
