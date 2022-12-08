@@ -1,4 +1,4 @@
-### Aloha! Bonjour! Hola! こんにちは! 你好！ <img src="media/Waving hand.webp" width="20">  I'm Roger, Napkin Killer, Ankle Breaker, and LobbyRokie!
+### Aloha! <img src="media/Waving hand.webp" width="20">  I'm Roger, a napkin killer, an ankle breaker, and a data geek!
 
 
 [<img src="media/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
