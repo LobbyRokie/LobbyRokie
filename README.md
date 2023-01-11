@@ -12,19 +12,22 @@ I'm a business intelligence developer, <br>
 and also a basketball player and a foodie.. <br>
 I'm currently learning Guitar and GitHub!
 
-#### Things I hate:
-* Data ambiguity, data discontinuity, data distortion.
-* Data source sitting in Excel sheet...
-* Manual and paper reports.
+#### Things make me 🙂:
+* Discovery of hidden wants and needs behind data 🗝️
+* Data integrity and data reliability.
+* Intuitive and elegant data visualization.
+* Intelligent data-driven solutions and strategic decisions.
+* Make my end users 😃.
+* Lean Method in work and life!
+* All food but blue cheese 🙂
+
+#### Things make me 😕:
+* Data ambiguity, data discontinuity, and data distortion.
 * Poor and incomplete data collection.
+* Data source residing in Excel sheet...
+* Manual and paper reports.
 * Blue cheese 🤮
 
-#### Things I like:
-* Data integrity and data reliability.
-* Elegant automation dashboard that delivers intuitive and interactive user experience. 
-* Intelligent data-driven solutions and strategic decisions.
-* Discovering the hidden wants and needs behind data!
-* All food but blue cheese 🙂
 <br>
 
 
