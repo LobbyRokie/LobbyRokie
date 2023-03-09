@@ -1,4 +1,4 @@
-### Aloha! <img src="media/Waving hand.webp" width="20">  I'm Roger, a napkin killer, an ankle breaker, and a data geek!
+### Hello World!  <img src="media/Waving hand.webp" width="20"> 
 
 
 [<img src="media/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
@@ -8,24 +8,22 @@
 
 
 ### About me:
-I'm a business intelligence developer, <br>
-and also a basketball player and a foodie.. <br>
-I'm currently learning Guitar and GitHub!
+I'm a business intelligence developer, a basketball player, and a foodie.. <br>
+<!-- I'm currently learning Guitar and GitHub! -->
 
 #### Things make me 🙂:
-* Discovery of hidden wants and needs behind data 🗝️
-* Data integrity and data reliability.
-* Intuitive and elegant data visualization.
-* Intelligent data-driven solutions and strategic decisions.
-* Make my end users 😃.
-* Lean Method in work and life!
-* All food but blue cheese 🙂
+* 🔍 Discover the hidden wants and needs behind data.
+* 💡 Deliver data-driven insights and enhance strategic decision-making.
+* 📊 Develop automated and Storytelling visualizations.
+* 🕕 Make business operations as lean and efficient as possible.
+* 💲  Reduce costs, boost revenue, and enhance overall business performance.
+* 😃 Make my stakeholders smile.
+* 🍣 All food but blue cheese. 
 
 #### Things make me 😕:
 * Data ambiguity, data discontinuity, and data distortion.
-* Poor and incomplete data collection.
-* Data source residing in Excel sheet...
-* Manual and paper reports.
+* Insufficient and incomplete data mining.
+* Manual reporting.
 * Blue cheese 🤮
 
 <br>
