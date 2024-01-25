@@ -14,7 +14,7 @@ I'm a business intelligence developer, a basketball player, and a foodie.. <br>
 #### Things make me 🙂:
 * 🔍 Discover the hidden wants and needs behind data.
 * 💡 Deliver data-driven insights and enhance strategic decision-making.
-* 📊 Develop automated and Storytelling visualizations.
+* 📊 Develop automated and storytelling visualizations.
 * 🕕 Make business operations as lean and efficient as possible.
 * 💲  Reduce costs, boost revenue, and enhance overall business performance.
 * 😃 Make my stakeholders smile.
